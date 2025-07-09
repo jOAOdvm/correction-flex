@@ -1,138 +1,131 @@
 nav {
-    display: flex;
-    justify-content: flex-end;
-    background-color: rgb(90, 90, 189);
-    align-items: center;
-    margin: 20px;
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(90, 90, 189);
+  align-items: center;
+  margin: 20px;
 }
 
 ul {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 
-    list-style: none;
+  list-style: none;
 }
 
 a {
-    text-decoration: none;
-    font-weight: bold;
-    margin: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 10px;
 }
 
 #title {
-    background-color: brown;
-    height: 30vh;
-    display: flex;
-    justify-content: center;
-    margin: 20px;
-    align-items: center;
-
+  background-color: brown;
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  align-items: center;
 }
 
 /* section1 */
 
 .section1 {
-    background-color: yellow;
-    height: 50vh;
-    margin: 20px;
-    justify-items: space-around;
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-
+  background-color: yellow;
+  height: 50vh;
+  margin: 20px;
+  justify-items: space-around;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
 }
 
 .video {
-    background-color: rgb(199, 136, 136);
-    width: 30%;
-    height: 90%;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-
+  background-color: rgb(199, 136, 136);
+  width: 30%;
+  height: 90%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 .article1 {
-    background-color: black;
-    width: 60%;
-    height: 90%;
-    justify-content: center;
-    align-items: center;
-    display: flex;
+  background-color: black;
+  width: 60%;
+  height: 90%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 /* ------section 2--- */
 .section2 {
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-    background-color: rgb(90, 90, 189);
-    height: 50vh;
-    margin: 20px;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  background-color: rgb(90, 90, 189);
+  height: 50vh;
+  margin: 20px;
 }
 
 .article2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: pink;
-    height: 90%;
-    width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+  height: 90%;
+  width: 30%;
 }
 
 .parti-droit {
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-    background-color: rgb(189, 184, 185);
-    height: 90%;
-    width: 60%;
-    flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  height: 90%;
+  width: 60%;
+  flex-direction: column;
 }
 
-img {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    background-color: rgb(207, 221, 207);
-    height: 35%;
-    width: 100%;
-    
+.img {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: rgb(207, 221, 207);
+  height: 35%;
+  width: 100%;
 }
 
 .aside-article {
-    justify-content: space-between;
-    align-items: center;
-    display: flex;
-    background-color: rgb(162, 70, 86);
-    height: 60%;
-    width: 100%
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  height: 60%;
+  width: 100%;
 }
 
 .aside2 {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    background-color: brown;
-    height: 100%;
-    width: 40%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: brown;
+  height: 100%;
+  width: 40%;
 }
 
 .aticle4 {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    background-color: rgb(192, 251, 255);
-    height: 100%;
-    width: 55%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: rgb(192, 251, 255);
+  height: 100%;
+  width: 55%;
 }
 
 footer {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    background-color: pink;
-    height: 15vh;
-    margin: 20px;
-
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: pink;
+  height: 15vh;
+  margin: 20px;
 }
